@@ -1,2 +1,10 @@
-# projet-ids-nsl-kdd
-IDS - Détection d'Intrusions Réseau par M
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
+xgboost
+shap
+streamlit
+joblib
